@@ -4,7 +4,7 @@
 // REAL Vesting System - Vesting Receipt NFT
 //
 // This NFT identifies the holder entitled to claim unlocked REAL
-// The holder of its linked vesting NFT receipt (vNFT) can claim unlocked tokens.
+// fron its linked individual vesting contract.
 // Transferring that NFT transfers the right to any unclaimed tokens.
 //
 // REAL Token: 0x325Aa344761c19F7ab6dc45A95f01d6907A30DCA
