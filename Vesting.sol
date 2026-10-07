@@ -2,11 +2,11 @@
 
 // Real Estate Alliance League, Illinois, USA
 // REAL Vesting System - Individual Vesting Contract
-//
+
 // Each vesting contract holds REAL tokens under its own unlock schedule.
 // The holder of its linked vesting NFT receipt (vNFT) can claim unlocked tokens.
 // Transferring that NFT transfers the right to any unclaimed tokens.
-//
+
 // REAL Token: 0x325Aa344761c19F7ab6dc45A95f01d6907A30DCA
 // https://thisisreal.io   /    support@thisisreal.io 
 
