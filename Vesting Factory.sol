@@ -2,12 +2,12 @@
 
 // Real Estate Alliance League, Illinois, USA
 // REAL Vesting System - Vesting Factory 
-//
+
 // The factory creates individual REAL token vesting contracts and links
 // each one to a vesting receipt NFT (vNFT). Each vesting contract has its
 // own token balance and unlock schedule. The vNFT carries the right to
 // claim that contract's unclaimed tokens as they unlock.
-//
+
 // REAL Token: 0x325Aa344761c19F7ab6dc45A95f01d6907A30DCA
 // https://thisisreal.io   /    support@thisisreal.io 
 
