@@ -48,6 +48,8 @@ import {ERC1967Proxy} from
 // https://etherscan.io/tx/0x6da3dbdf9af596333d6c9c32c6d181eb3cd044d034efbf63ab120543ca9f32aa
 // Proxy Contract
 // https://etherscan.io/address/0xb1f6ce5863a17a93aa3f744d114cc2175e484703
-
+// adding LP info
 // pair 0x2753dDc2cd8fd56D48588e5aD5E9b22d731Ed29A
 // quoteToken  0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+// https://etherscan.io/tx/0x1fa254f42c919550bbc07bd4a73d33e3fbdef51dc050673263c85fefb875b6f0
+// 
