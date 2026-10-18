@@ -8,5 +8,7 @@
 
 
 // REAL Supply Oracle Mainnet
-// This did not work.  It did not creaate a contract..
+// Transaction / Contract Deployment
 // https://etherscan.io/tx/0x5958d528d32d23ad5ebebba3a2bb92cc37aecacb371a17f02ae99fe446d10374
+// Deployed Contract
+// https://etherscan.io/address/0x4ec03132a597bc7b3239d25cb1a66c6f0c3de565#code
