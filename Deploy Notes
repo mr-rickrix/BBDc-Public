@@ -22,6 +22,20 @@
 // 0.0M 0x4106E21F155383DfB947b44e2A846405Cd7837A6
 
 // SPDX-License-Identifier: MIT
+
+// Real Estate Alliance League, Illinois, USA
+// REAL Supply Oracle - Upgradeable Proxy
+
+// This proxy provides the permanent address for the REAL Supply Oracle.
+// It delegates calls to an implementation that can be upgraded by
+// the authorized owner.
+
+// REAL Token: 0x325Aa344761c19F7ab6dc45A95f01d6907A30DCA
+// https://thisisreal.io   /    support@thisisreal.io
+
+// Developed by Building Blocks Developers Co. (https://BBDc.io)
+// for Real Estate Alliance League Inc.
+
 pragma solidity ^0.8.28;
 
 import {ERC1967Proxy} from
