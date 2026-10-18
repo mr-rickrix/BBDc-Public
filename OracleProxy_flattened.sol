@@ -704,5 +704,3 @@ contract ERC1967Proxy is Proxy {
 // for Real Estate Alliance League Inc.
 
 pragma solidity ^0.8.28;
-
-    "@openzeppelin/contracts@5.1.0/proxy/ERC1967/ERC1967Proxy.sol";
